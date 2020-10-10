@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**bn4t/bn4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Things I have experience in:
+- Programming Languages: Go, Javascript (Vue), Shell, .Net
+- Databases: PostgreSQL, SQLite
+- Deployment tech: Docker, Saltstack (though a bit rusty)
+- Misc: Linux, SMTP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+
+- [Email](mailto:me@bn4t.me)
+- [Matrix](https://matrix.to/#/@bn4t:matrix.bn4t.me)
+
+#### Misc
+- A small blog: [bn4t.me](https://bn4t.me) 
