@@ -2,10 +2,10 @@
 
 
 #### Things I have experience in:
-- Programming Languages: Go, Javascript (Vue), Shell, .Net
+- Programming Languages: Go, Javascript, PHP (Laravel), Shell, C#
 - Databases: PostgreSQL, SQLite
-- Deployment tech: Docker, Saltstack (though a bit rusty)
-- Misc: Linux, SMTP
+- DevOps: Linux, Docker (Swarm), Saltstack
+- Misc: Email standards, DNS
 
 #### Contact
 
