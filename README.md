@@ -5,7 +5,7 @@
 - Programming Languages: Golang, Javascript, PHP (Laravel), Shell, C# & .Net
 - Databases: PostgreSQL, SQLite
 - DevOps: Linux, Docker (Swarm), Saltstack, Caddy/Nginx/Traefik
-- Misc: Email standards (SMTP/DMARC/DKIM/SPF), DNS & DNSSEC, basic X.509 knowledge
+- Misc: Email standards (SMTP/DMARC/DKIM/SPF), DNS & DNSSEC, fundamental X.509 knowledge
 
 #### Contact
 
