@@ -15,5 +15,3 @@
 #### Misc
 - Portfolio: [benjaminnater.com](https://benjaminnater.com)
 - A small blog: [bn4t.me](https://bn4t.me)
-- Service that openly transfers it’s zone file to anyone: [icanhazaxfr.com](https://icanhazaxfr.com/)
-- Service to generate dynamic QR codes: [dynqr.app](https://dynqr.app/)
