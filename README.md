@@ -10,7 +10,6 @@
 #### Contact
 
 - [Email](mailto:me@bn4t.me)
-- [Matrix](https://matrix.to/#/@bn4t:matrix.bn4t.me)
 
 #### Misc
 - Portfolio: [benjaminnater.com](https://benjaminnater.com)
