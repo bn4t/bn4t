@@ -2,10 +2,10 @@
 
 
 #### Things I have experience in:
-- Programming Languages: Golang, Javascript, PHP (Laravel), Shell
+- Programming Languages: Golang • PHP (Laravel) • .NET • POSIX Shell • JavaScript (Vanilla & Vue)
 - Databases: PostgreSQL, SQLite
-- DevOps: Linux, Docker (Swarm), Saltstack, Caddy/Nginx/Traefik
-- Misc: Email standards (SMTP/DMARC/DKIM/SPF), DNS & DNSSEC, fundamental X.509 knowledge
+- DevOps: Linux • Docker • Terraform • Hashicorp Packer • Kubernetes
+- Misc: Email standards (SMTP/DMARC/DKIM/SPF), DNS & DNSSEC, fundamental X.509 & cryptography knowledge
 
 #### Contact
 
